@@ -1,0 +1,15 @@
+# Debug.
+npm-debug.log
+
+# External libraries.
+node_modules/
+src/lib/
+
+# Compiled css.
+src/css/
+
+# Production path.
+dist/
+
+# Document.
+docs/
