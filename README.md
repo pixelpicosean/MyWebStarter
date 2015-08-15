@@ -8,6 +8,11 @@
 2. Run `npm install` and then `jspm install` in the root directory
 3. Run `gulp` or `npm start` to start the local dev server
 
+### Note
+
+Make sure that the `src/css` and `src/img` folder exist, they
+are ignored by Git but required for building tasks.
+
 ## Generating documentation
 
 Run `npm run docs` to generate documentation for your JavaScript and SASS automatically in the `docs` folder.
