@@ -5,7 +5,7 @@
 ## Usage
 
 1. Install Gulp globally: `npm install -g gulp`
-2. Run `gulp install` in the root directory to install npm & jspm dependencies automatically or do it yourself by running `npm install` and then `jspm install` in the root directory
+2. Run `npm install` and then `jspm install` in the root directory
 3. Run `gulp` or `npm start` to start the local dev server
 
 ## Generating documentation
