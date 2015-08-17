@@ -1,5 +1,5 @@
 class Foo {
-  doSomething() {
+  doSomething () {
     return 'Do Something';
   }
 }
